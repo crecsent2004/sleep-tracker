@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; background-color: #f9fafb; }
+form input, form textarea { display: block; width: 100%; margin: 8px 0; padding: 10px; border-radius: 5px; border: 1px solid #ccc; }
+button { padding: 10px 20px; background-color: #3b82f6; color: white; border: none; border-radius: 5px; }
+a { text-decoration: none; color: #3b82f6; }
